@@ -17,4 +17,4 @@ spec:
           image: pawar199813/dhiraj_job_2:v1.62
           imagePullPolicy: Always
           ports:
-          - containerPort: 22
+          - containerPort: 80
